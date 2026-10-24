@@ -21,7 +21,6 @@ SMS Spam Collection dataset (`spam.csv`) with 5,000+ labelled SMS messages (ham 
 
 Best model: **Linear SVM** (98.16% accuracy, F1 = 0.9255)
 
-![Confusion Matrix](confusion_matrix.png)
 
 ## Limitations
 The dataset mostly contains prize/offer style spam, so phishing-style messages (e.g. fake bank alerts) may be missed. Training on newer data would improve this.
